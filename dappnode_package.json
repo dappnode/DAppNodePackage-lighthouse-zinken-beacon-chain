@@ -1,7 +1,7 @@
 {
   "name": "lighthouse-zinken-beacon-chain.dnp.dappnode.eth",
   "version": "0.1.0",
-  "upstreamVersion": "v0.3.0",
+  "upstreamVersion": "v0.3.1",
   "shortDescription": "Lighthouse zinken ETH2.0 Beacon chain",
   "description": "An open-source Ethereum 2.0 client, written in Rust and maintained by Sigma Prime.",
   "type": "service",
